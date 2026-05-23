@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://gitdoc.ai/logos-dark.svg" alt="GitDocAI" width="120">
+<a href="https://gitdoc.ai">
+  <img src="https://gitdoc.ai/logos-dark.svg" alt="GitDocAI" width="120">
+</a>
 
 # GitDocAI
 
